@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_pf_rtslike\\uht\\cpp_pf_rtslikegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\x64\\cpp_pf_rtslikeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp_pf_rtslike\\definitions.cpp_pf_rtslike.h",
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\source\\cpp_pf_rtslike\\cpp_pf_rtslikegamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_pf_rtslike\\uht\\cpp_pf_rtslikegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
