@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_pf_rtslike\\uht\\cpp_pf_rtslikeplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\x64\\cpp_pf_rtslikeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp_pf_rtslike\\definitions.cpp_pf_rtslike.h",
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\source\\cpp_pf_rtslike\\cpp_pf_rtslikeplayercontroller.h",
+            "c:\\users\\user\\documents\\unreal projects\\ue5_cpp_pf_rtslike-repository\\cpp_pf_rtslike\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_pf_rtslike\\uht\\cpp_pf_rtslikeplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

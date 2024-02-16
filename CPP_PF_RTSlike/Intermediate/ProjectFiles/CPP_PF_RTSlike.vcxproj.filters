@@ -11,6 +11,7 @@
     <None Include="..\..\Source\CPP_PF_RTSlikeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -57,6 +58,12 @@
       <Filter>Source\CPP_PF_RTSlike</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CPP_PF_RTSlike\CPP_PF_RTSlikePlayerController.h">
+      <Filter>Source\CPP_PF_RTSlike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_PF_RTSlike\RTSCamera.cpp">
+      <Filter>Source\CPP_PF_RTSlike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_PF_RTSlike\RTSCamera.h">
       <Filter>Source\CPP_PF_RTSlike</Filter>
     </ClInclude>
   </ItemGroup>
