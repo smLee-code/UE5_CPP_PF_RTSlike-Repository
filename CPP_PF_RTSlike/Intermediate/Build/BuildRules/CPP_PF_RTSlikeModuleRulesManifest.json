@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5_CPP_PF_RTSlike-Repository\\CPP_PF_RTSlike\\Source\\CPP_PF_RTSlike\\CPP_PF_RTSlike.Build.cs",
-		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5_CPP_PF_RTSlike-Repository\\CPP_PF_RTSlike\\Source\\CPP_PF_RTSlike.Target.cs",
-		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5_CPP_PF_RTSlike-Repository\\CPP_PF_RTSlike\\Source\\CPP_PF_RTSlikeEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
